@@ -1,0 +1,12 @@
+{% load static %}
+{% static "rs" as rs %}
+<!-- declaring a variable in line no 1 -->
+{% for d in dests %}
+{{d.name}} <br>
+{{d.img}} <br>
+{{d.desc}} <br>
+{{d.price}} {{rs}} <br> <hr>
+{% if d.offer %}
+<button disabled="disabled">Disabled button</button><br> <hr>
+{% endif %}
+{% endfor %}
