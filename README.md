@@ -27,7 +27,8 @@ You can access the django admin page at [http://127.0.0.1:8000/admin](http://127
 Also a new admin user can be created using
 ```bash
 python manage.py createsuperuser
-```![Screenshot from 2022-04-18 23-04-01](https://user-images.githubusercontent.com/83533427/165736911-5f993ddf-4657-4490-88fa-31b339a584d4.png)
+```
+![Screenshot from 2022-04-18 23-04-01](https://user-images.githubusercontent.com/83533427/165736911-5f993ddf-4657-4490-88fa-31b339a584d4.png)
 ![Screenshot from 2022-04-18 23-02-46](https://user-images.githubusercontent.com/83533427/165736920-c61d0607-5f35-4e63-afc1-a4860230f07b.png)
 ![Screenshot from 2022-04-18 23-02-36](https://user-images.githubusercontent.com/83533427/165736931-e838e003-ba18-48ff-9c85-a31943fd3d35.png)
 ![Screenshot from 2022-04-18 23-02-30](https://user-images.githubusercontent.com/83533427/165736937-1ded6748-cc2c-4294-ba14-de694d5a46db.png)
