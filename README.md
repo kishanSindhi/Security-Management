@@ -28,6 +28,8 @@ Also a new admin user can be created using
 ```bash
 python manage.py createsuperuser
 ```
+# Screenshots
+
 ![Screenshot from 2022-04-18 23-02-21](https://user-images.githubusercontent.com/83533427/165736950-9de7dd4e-ab9e-4eeb-9990-0c9e48dd66fe.png)
 ![Screenshot from 2022-04-18 23-02-27](https://user-images.githubusercontent.com/83533427/165736944-3672dc23-6dd7-460a-a396-2a505bd14795.png)
 
